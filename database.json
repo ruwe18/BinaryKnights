@@ -1,0 +1,172 @@
+{
+    "logins": {
+        "eniacfreemn": {
+            "user": "eniacfreemn",
+            "password": "123",
+            "personname": "Eduardo",
+            "interesses": [],
+            "skills": []
+        },
+        "ruwe": {
+            "user": "ruwe",
+            "password": "12345",
+            "personname": "Francisco",
+            "interesses": [],
+            "skills": []
+        },
+        "bobao": {
+            "user": "bobao",
+            "password": "uohusjkdhskhjks",
+            "personname": "chico",
+            "interesses": [],
+            "skills": []
+        },
+        "arielconta": {
+            "user": "arielconta",
+            "password": "12345678",
+            "personname": "Ariel",
+            "interesses": [],
+            "skills": []
+        },
+        "eduardobobao": {
+            "user": "eduardobobao",
+            "password": "123456",
+            "personname": "eduardo",
+            "interesses": [],
+            "skills": []
+        },
+        "ruwe17": {
+            "user": "ruwe17",
+            "password": "12345678",
+            "personname": "Francisco Dias Campos Carvalho",
+            "interesses": [
+                "physics",
+                "webdevelopment"
+            ]
+        }
+    },
+    "opensp": {
+        "Unistellar Optics": {
+            "name": "Unistellar Optics",
+            "link": "https:\\\\\\\\\\/\\\\\\\\\\/science.unistellaroptics.com",
+            "team": "Paul Dalba, PhD, Tom Esposito, PhD, Lauren Sgro, PhD, Franck Marchis, PhD",
+            "objectives": "Make people learn about exoplanets and discover new exoplanets only using their telescope",
+            "interests": "astronomy,physics",
+            "skills": "analysis, logical thinking, fluency in other languages, synthesis"
+        },
+        "Exoplanet watch": {
+            "name": "Exoplanet watch",
+            "link": "https:\\\\\\\\\\/\\\\\\\\\\/exoplanets.nasa.gov\\\\\\\\\\/exoplanet-watch\\\\\\\\\\/about-exoplanet-watch\\\\\\\\\\/overview\\\\\\\\\\/",
+            "team": "NASA",
+            "objectives": "Lets anyone and everyone  learn about planets that orbit stars beyond our solar system and get involved in observing them",
+            "skills": "analysis, logical thinking, synthesis",
+            "interests": "astronomy,web development,physics"
+        },
+        "Dark Energy Explorers": {
+            "name": "Dark Energy Explorers",
+            "link": "https:\\\\\\\\\\/\\\\\\\\\\/www.zooniverse.org\\\\\\\\\\/projects\\\\\\\\\\/erinmc\\\\\\\\\\/dark-energy-explorers",
+            "team": "Karl Gebhardt, Keely Finkelstein, Erin Cooper, Erin Cooper, Dustin Davis, Jose Saucedo, Mike Truong, Isaiah Pipkin ",
+            "objectives": "Identify distant galaxies to help measure dark energy when the universe was just ~2-3 billion years old",
+            "skills": "analysis,logical thinking,mathematics",
+            "interests": "astronomy, physics,web development,web design"
+        },
+        "Fjord Phyto": {
+            "name": "Fjord Phyto",
+            "link": "https:\\\\\\\\\\/\\\\\\\\\\/fjordphyto.ucsd.edu\\\\\\\\\\/",
+            "team": "Dr. Maria Vernet, Dr. Rick Reynolds, Allison Cusick, Dr. Martina Mascioni, Christian Johnson, Lorenzo Kohler, Tobias Chavero, Celeste Kroeger, Elena Neibaur, Lilianna Watson, Gabriela Lamanna, Anesse Pinpokintr, Dr. Daniela Cajiao, Brooke Dixon, Carmen Zamora, Jordan Newman",
+            "objectives": "Investigate how melting glaciers are affecting the phytoplankton along the western Antarctic Peninsula. ",
+            "skills": "logical thinking,analysis,organization",
+            "interests": "biology,web development"
+        },
+        "Jovian Vortex Hunters": {
+            "name": "Jovian Vortex Hunters",
+            "team": "Ramanakumar Sankar, Shawn Brueshaber, Candice Hansen-Koharcheck, Glenn Orton, Chris Lintott, Kameswara Mantha, Lucy Fortson",
+            "link": "https:\\\\\\\\\\/\\\\\\\\\\/www.zooniverse.org\\\\\\\\\\/projects\\\\\\\\\\/ramanakumars\\\\\\\\\\/jovian-vortex-hunter\\\\\\\\\\/",
+            "interests": "astronomy,physics",
+            "skills": "logical thinking,analysis,creativity,mathematics,inovation",
+            "objectives": "Jovian Vortex Hunters is a project that looks to learn more about Jupiter's clouds"
+        },
+        "Mountain, rain or snow": {
+            "name": "Mountain, rain or snow",
+            "team": "Scientists and programmers from Lynker, the Desert Research Institute, and University of Nevada-Reno.",
+            "link": "https:\\\\\\\\\\/\\\\\\\\\\/www.rainorsnow.org\\\\\\\\\\/",
+            "interests": "physics,web design,biology,web development ",
+            "skills": "analysis,organization,fluency in other languages",
+            "objectives": "The project wants to understand winter weather"
+        },
+        "Community Snow Observations": {
+            "name": "Community Snow Observations",
+            "team": "Anthony Arendt, Christina Aragon, David Hill, Emilio Mayorga, Gabriel Wolken, Katreen Wikstrom Jones, Ryan Crumley",
+            "link": "https:\\\\\\\\\\/\\\\\\\\\\/communitysnowobs.org\\\\\\\\\\/",
+            "interests": "web design,web development, ",
+            "skills": "mathematics,organization",
+            "objectives": "This project aims to improve our understanding of snow depth variability in mountainous regions."
+        },
+        "Moondiff": {
+            "name": "Moondiff",
+            "team": "Brian Day, Jim Green, Richard Kim, Dave Williams, Aaron Curtis",
+            "link": "https:\\\\\\\\\\/\\\\\\\\\\/trek.nasa.gov\\\\\\\\\\/moondiff\\\\\\\\\\/",
+            "interests": "astronomy,physics,web development,web design",
+            "skills": "logical thinking,mathematics,organization,analysis",
+            "objectives": "Discover more about the moon, colecting images and analyze them to discover new information"
+        }
+    },
+    "opensourcep": {
+        "flask": {
+            "name": "flask",
+            "team": "Armin Ronacher",
+            "link": "https:\\\\/\\\\/flask.palletsprojects.com\\\\/en\\\\/2.0.x\\\\/",
+            "interests": "web design,web development",
+            "skills": "creativity,inovation,logical thinking",
+            "objectives": "Make web design and web development easier"
+        },
+        "Django": {
+            "name": "Django",
+            "team": "Chaim Kirby, President Cagil Ulusahin Sonmez, Vice President, Katie McLaughlin, Secretary, Peter Baumgartner, Treasurer, Aaron Bassett, Jacob Kaplan-Moss, K\\u00e1tia Nakamura",
+            "link": "https:\\/\\/www.djangoproject.com\\/",
+            "interests": "web design,web development",
+            "skills": "logical thinking,inovation,creativity",
+            "objectives": " Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. "
+        },
+        "TensorFlow": {
+            "name": "TensorFlow",
+            "team": "Google researchers",
+            "link": "https:\\/\\/www.tensorflow.org\\/",
+            "interests": "web design,web development,graphic design",
+            "skills": "logical thinking,inovation,creativity,fluency in other languages,analysis",
+            "objectives": "Create machine learning models at production level, in a more practical manner."
+        },
+        "Ansible": {
+            "name": "Ansible",
+            "team": "Michael DeHaan",
+            "link": "https:\\/\\/www.ansible.com\\/",
+            "interests": "web design,web development,graphic design",
+            "skills": "logical thinking,inovation,creativity",
+            "objectives": "Ansible is an open source application for automating, configuring servers and deploying applications"
+        },
+        "IncludeOS": {
+            "name": "IncludeOS",
+            "team": " Magnus Skjegstad ",
+            "link": "https:\\/\\/www.includeos.org\\/",
+            "interests": "web development,web design",
+            "skills": "logicalthinking,critical thinking,analysis",
+            "objectives": "IncludeOS allows you to run your application in the cloud without an operating system. IncludeOS adds operating system functionality to your application allowing you to create performant, secure and resource efficient virtual machines."
+        },
+        "PyTorch": {
+            "name": "PyTorch",
+            "team": "Nikita Shulga",
+            "link": "https:\\/\\/pytorch.org\\/",
+            "interests": "web design,web development",
+            "skills": "flexibility,logical thinking,inovation,creativity",
+            "objectives": "PyTorch is a Python package that deals with neural nets and machine learning. "
+        },
+        "Polymer": {
+            "name": "Polymer",
+            "team": "Google developers",
+            "link": "https:\\/\\/polymer-library.polymer-project.org",
+            "interests": "web design,web development",
+            "skills": "logical thinking,creativity,inovation,critical thinking,graphic design",
+            "objectives": "Polymer is an open source library for developing websites using web components."
+        }
+    }
+}
